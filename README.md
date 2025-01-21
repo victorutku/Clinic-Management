@@ -23,7 +23,7 @@ User Menu
 6. Delete  
 7. Exit    
 Select one option from the menu: 1   
-Email: bryan@gmail.com  
+Email: victorutku@gmail.com  
 Password: 123  
 Account successfully created  
 
