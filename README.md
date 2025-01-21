@@ -1,4 +1,4 @@
-# Python-MySQL-Health Care Management System
+# Clinic Management System
 
 The application is a health management system that would be used by a health care provider. The application is using Python for the interface, and MySQL for the database. The database includes patients, doctors, appointments, health records, medications, messaging and more. The interface allows you to view, update, delete, insert database contents. The program can detect if any DB tables are missing and uses a change log to recover missing data.
 
@@ -74,8 +74,8 @@ Select one option from the menu: 5
 Tables: Account Appointments Messages HealthRecord  
 Enter a table to update data: Account  
 Enter the name of the attribute: Email  
-What is the current value?: Bryan@gmail.com   
-Enter the new value: bryan2@yahoo.com   
+What is the current value?: victorutku@gmail.com   
+Enter the new value: utkuayduran@yahoo.com   
 Data successfully updated into Account  
 
 User Menu  
@@ -115,6 +115,6 @@ User Menu
 6. Delete  
 7. Exit  
 Select one option from the menu: 2   
-Email: bryan2@yahoo.com   
+Email: utkuayduran@yahoo.com   
 Password: 123  
-Logged in as, bryan2@yahoo.com  
+Logged in as, utkuayduran@yahoo.com  
